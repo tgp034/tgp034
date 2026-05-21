@@ -1,14 +1,14 @@
-# 👋 Bienvenida/o a mi perfil de GitHub
+# 👋 Welcome to my GitHub profile
 
-💻 **Full Stack Developer** con experiencia en **backend y frontend**, apasionado por el desarrollo de software, la optimización de procesos y la resolución de problemas.  
-🎓 Ingeniero Informático por la Universidad de Almería, en formación continua y especializado en desarrollo **Full Stack** en 4Geeks Academy.  
-🤝 Trabajo tanto de forma independiente como en equipo, aplicando buenas prácticas de control de versiones con GitHub y colaborando en proyectos de software.
+💻 **Full Stack Developer** with experience in **backend and frontend**, passionate about software development, process optimisation and problem solving.  
+🎓 Computer Science Engineer from the University of Almería, continuously learning and specialised in **Full Stack** development at 4Geeks Academy.  
+🤝 I work both independently and in teams, applying best practices in version control with GitHub and collaborating on software projects.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 <p>
-  <!-- Lenguajes -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,13 +36,13 @@
 </p>
 
 <p>
-  <!-- Bases de Datos -->
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 <p>
-  <!-- Herramientas -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -51,18 +51,18 @@
 ---
 
 
-## 📊 Analíticas de GitHub
+## 📊 GitHub Analytics
 <p align="center">
-  <!-- Stats generales -->
+  <!-- General stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=tgp034&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
 </p>
 <p align="center">
-  <!-- Lenguajes más usados -->
+  <!-- Most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgp034&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Trofeos -->
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=tgp034&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
@@ -70,7 +70,7 @@
 ---
 
 
-## 🤝 Conecta conmigo
+## 🤝 Connect with me
 
 <p align="center">
   <a href="www.linkedin.com/in/tito-julio-gonzalez-padial-7b7292330" target="_blank">
@@ -83,5 +83,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
-
