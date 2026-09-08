@@ -2,7 +2,7 @@
 
 💻 **Junior Software Developer** focused on **Java backend engineering** — REST APIs, relational databases, and clean, testable code.  
 🎓 Computer Science graduate (Software Engineering) from the University of Almería. Full Stack bootcamp at 4Geeks Academy.  
-🚀 Built backends with Java 21, Spring Boot and PostgreSQL. Interested in backend systems, fintech and AI-powered integrations.
+🚀 Built backends with Java 21, Spring Boot and PostgreSQL. Interested in backend systems and AI-powered integrations.
 
 ---
 
